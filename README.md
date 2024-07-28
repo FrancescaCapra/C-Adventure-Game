@@ -33,7 +33,7 @@ In this game, you take on the role of a master strategist responsible for managi
 
 ### Compilation
 
-To compile and run the project, use the following command:
+To compile and run the project, use the following commands:
 ```sh
 gcc -o game main.c pgList.c pg.c invArray.c equipArray.c inv.c
 ./game
