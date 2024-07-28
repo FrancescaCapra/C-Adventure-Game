@@ -15,9 +15,6 @@ In this game, you take on the role of a master strategist responsible for managi
 - **Manage Equipment**: Keep track of a vast inventory of items, each with its own set of attributes. Equip your characters with the best gear to maximize their potential.
 - **Read and Write**: Load your inventory from files and save your progress to ensure you never lose track of your items.
 
-### Interactive Command-Line Interface
-- **User-Friendly Menu**: Navigate through a simple yet powerful menu system to perform all game actions, from adding new characters to updating equipment.
-
 ## File Structure
 
 - **pgList.h / pgList.c**: Handles the linked list of characters, including functions to initialize, free, read from file, print, insert, remove, and search characters.
